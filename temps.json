@@ -1,0 +1,21 @@
+{
+  "more_apps": [
+    "1341255187",
+    "1359763765"
+  ],
+  "clicks_of_popup": 4,
+  "url_store": "",
+  "ads_info": [
+    {
+      "id_app": "ca-app-pub-5372862349743986~9191310357",
+      "id_banner": "ca-app-pub-5372862349743986/1668043550",
+      "id_popup": "ca-app-pub-5372862349743986/4621509959",
+      "id_video": "ca-app-pub-5372862349743986/4025868869",
+      "type": "admob"
+    },
+    {
+      "id_app": "3125053",
+      "type": "unity"
+    }
+  ]
+}
